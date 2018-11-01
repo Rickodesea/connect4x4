@@ -1,0 +1,7 @@
+#Wed Oct 31 01:48:13 EST 2018
+base.0=/home/alrickgaylian/Documents/Algodal/Games/Connect4x4/libgdx/connect4x4/android/build/intermediates/transforms/dexMerger/debug/11
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/alrickgaylian/Documents/Algodal/Games/Connect4x4/libgdx/connect4x4/android/build/intermediates/transforms/dexMerger/debug/12
